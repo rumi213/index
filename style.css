@@ -124,7 +124,7 @@ section {
     min-height: 90vh;
     display: flex;
     align-items: center;
-    background: url("background.jpg");
+    background: url("https://images.pexels.com/photos/13689951/pexels-photo-13689951.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
     background-size: cover;
     background-position: center;
 }
